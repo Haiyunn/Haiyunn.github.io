@@ -1,11 +1,9 @@
 # Haiyun Wei academic homepage
 
-Static academic homepage for GitHub Pages.
-
-## Files
+Responsive static academic homepage for GitHub Pages.
 
 - `index.html` — homepage content
 - `style.css` — responsive layout and styling
-- Profile image loads from the public GitHub account avatar.
+- `portrait.jpg` — profile photo
 
-The repository is `Haiyunn/Haiyunn.github.io`. In repository **Settings → Pages**, publish from the `main` branch and the root folder (`/`).
+Repository: `Haiyunn/Haiyunn.github.io`. Publish from the `main` branch and root folder (`/`) in **Settings → Pages**.
